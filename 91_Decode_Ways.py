@@ -28,4 +28,3 @@ if __name__ == "__main__":
     sol = Solution()
     t = time()
     ans = sol.numDecodings('22645')
-    print('ans = %s\ntime = %.3fms'%(ans, (time() - t) * 1000))
